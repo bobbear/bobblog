@@ -1,28 +1,13 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+finished stories:
 
-Things you may want to cover:
+story1. 建立一个基础的工程
+story2. 建立最基础的欢迎页面
+story3. 测试这个页面
+story4. 上传到git上去
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+story1. create a scaffold project with rails cmd
+story2. create a simple welcome index page for test
+story3. ceeate a index page's spec for testing
+story4. commit code to github
